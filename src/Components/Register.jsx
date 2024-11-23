@@ -28,7 +28,7 @@ const Register = () => {
             <div className="bg-base-200 min-h-screen">
                 <div className="hero-content flex-col mx-auto lg:flex-row-reverse ">
                     <div className="card bg-base-100 w-2/4 shrink-0 shadow-2xl my-10">
-                        <h1 className='text-3xl text-center pt-10'>Register your account</h1>
+                        <h1 className='text-3xl text-center pt-10'>Register your account ok</h1>
                         <hr className='w-[90%] mx-auto my-5' />
                         <form onSubmit={handleCreate} className="card-body my-0 pt-0">
                             <div className="form-control">
